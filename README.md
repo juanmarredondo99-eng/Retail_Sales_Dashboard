@@ -55,13 +55,13 @@ The dataset was generated using Python (Pandas, datetime, random) and includes:
 📌 Files included in this repo:
 
 ```bash
-├── dashboard_sales.xlsx            # Final interactive dashboard
-├── sales_data.xlsx                 # Dataset generated in Python
-├── data_script.ipynb               # Jupyter Notebook used to create dataset
+├── dashboard_sales_data_analysis.xlsx      # Final interactive dashboard
 ├── assets/
-│   └── dashboard_preview.jpg       # Dashboard screenshot for preview
+│   └── Dashboard.png                       # Dashboard screenshot for preview
 ├── docs/
-│   └── Retail_Sales_Context_Problem.pdf   # Business context & problem statement
+│   └── Retail_Sales.pdf                    # Business context & problem statement
+│   └── data.py                             #  Jupyter Notebook used to create dataset
+│   └── sales_data.xlsx                     # Dataset generated in Python
 └── README.md
 
 ```
@@ -101,4 +101,5 @@ The dataset was generated using Python (Pandas, datetime, random) and includes:
 Juan Manuel Arredondo Londoño
 Industrial Engineering Student – Analytics & Development
 📍 Medellín, Colombia
+
 ---
